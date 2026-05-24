@@ -22,4 +22,4 @@ My name is Borne and I live in NC. I really like coding and math. I only code on
 
 ## Links:
 ### Contact: cntctbornesanders@gmail.com
-### Discord: <discord.com/users/1452728248965402766>
+### Discord: [discord.com/users/1452728248965402766]
