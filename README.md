@@ -21,5 +21,7 @@ My name is Borne and I live in NC. I really like coding and math. I only code on
 - Oh and a fun fact, I once messed up coding so bad that the OS deleted a system file that manages CPU and GPU temperatures.
 
 ## Links:
-### Contact: cntctbornesanders@gmail.com
-### Discord: [discord.com/users/1452728248965402766]
+### Contact: 
+cntctbornesanders@gmail.com
+### Discord: 
+discord.com/users/1452728248965402766
