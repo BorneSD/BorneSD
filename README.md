@@ -5,6 +5,8 @@
 Here are some ideas to get you started:
 -->
 
+# Hello :D
+
 - I'm working on a custom programming language
 - I'm learning C++, C, and ARM64
 - I'm looking to collaborate with anyone
