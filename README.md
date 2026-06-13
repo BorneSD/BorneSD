@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 # Hello :D
 
 ## Mini Bio:
-My name is Borne and I live in NC. I really like coding and math. I only code on macOS because it's the first OS I've used, and I really like it. I primarily code in C/C++ because it's low level enough to do some OS hackery.
+My name is Borne and I live in NC. I really like coding and math. I only code on macOS because it's the first OS I've used, and I really like it. I primarily code in C/C++/ARM64 because it's low level enough to do some OS hackery.
 
 ## Some things about me:
 
