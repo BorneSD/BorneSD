@@ -19,7 +19,6 @@ My name is Borne and I live in NC. I really like coding and math. I only code on
 - You can reach me at: cntctbornesanders@gmail.com (I have the hk pfp)
 - Pronouns: He/Him
 - Fun Fact 1: I am learning Polish
-- Fun Fact 2: I once messed up coding so bad that the OS deleted a system file that manages CPU and GPU temperatures.
 
 ## Links:
 ### Contact: cntctbornesanders@gmail.com
